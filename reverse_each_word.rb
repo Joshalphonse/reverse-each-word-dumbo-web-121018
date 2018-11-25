@@ -13,5 +13,3 @@ def reverse_each_word(str)
   end
   result.strip
 end
-puts "Hello"
-end
